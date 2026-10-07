@@ -1,0 +1,21 @@
+# Built output directories (from screenshot)
+/build/
+/app/build/
+.gradle/
+
+# Local configuration files (CRITICAL: contains machine-specific SDK paths)
+local.properties
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Mobile build outputs
+*.apk
+*.apks
+*.aab

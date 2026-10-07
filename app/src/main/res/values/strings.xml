@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="title_welcome">Sample Android App</string>
+    <string name="subtitle_welcome">Running smoothly on your Android device!</string>
+    <string name="status_connected">Connected &amp; Active</string>
+    <string name="card_device_info">Device Information</string>
+    <string name="card_actions">Interactive Tests</string>
+    <string name="btn_increment">Tap Counter</string>
+    <string name="btn_toast">Show Message</string>
+    <string name="counter_text">Taps: %1$d</string>
+    <string name="toast_message">Antigravity sample app is running on your mobile device!</string>
+    <string name="footer_adb_info">Build: Debug • Compiled with AGP &amp; Kotlin</string>
+</resources>
